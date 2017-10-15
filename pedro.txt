@@ -1,4 +1,5 @@
  Titulo del Post: asdasd
+<<<<<<< HEAD
 
 Cuerpo del Post: asdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
@@ -16,3 +17,22 @@ publicado por: pedro
 publicado el: 2017/07/02
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=======
+
+Cuerpo del Post: asdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+
+publicado por: pedro
+
+publicado el: 2017/07/02
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Titulo del Post: aaqqqqqq
+
+Cuerpo del Post: asdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdasdasdasdasdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+
+publicado por: pedro
+
+publicado el: 2017/07/02
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>>>>>> 29d77b300abbd8f8e264453d973c68a11af8dece
