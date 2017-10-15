@@ -1,3 +1,3 @@
-Blog System
+# Blog System
 A simple blog system using the design pattern Observer in Java
 
